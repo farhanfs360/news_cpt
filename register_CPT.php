@@ -3,20 +3,13 @@
 /*
 
 Plugin Name: Fullstop360 Register Post Types
-
 Plugin URI: https://fullstop360.com/
-
 Description: This plugin is created for Custom Post Type for News by Fullstop
-
 Version: 1.0
-
 Author: Farhan Khan
-
 Author URI: https://fullstop360.com/
-
 License: GPLv2 or later
-
-Text Domain: Fullstop
+Text Domain: Fullstop360
 
 */
 
